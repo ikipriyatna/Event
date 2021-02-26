@@ -1,0 +1,141 @@
+body{
+				background-color:#f4f4f4;
+}
+
+.countainer{
+				background-color:#35424a;
+				position:absolute;
+				top:0;
+				left:0;
+				right:0;
+}
+
+
+
+.prytna{
+				text-align:center;
+				color:white;
+}
+
+.p{
+				color:#e8491d;
+}
+
+.head{
+				text-align:center;
+				font-weight:bold;
+				
+}
+
+.head a{
+				text-decoration:none;
+				color:#e8491d;
+				padding-left:35px;
+				
+}
+
+.head ul li{
+				display:inline-block;
+				float:left;
+}
+
+.v{
+				color:white;
+}
+
+.garis{
+				
+				background-color:#e8491d;
+				color:#e8491d;
+				
+}
+
+.masuk{
+				text-align:center;
+				color:white;
+}
+
+.email{
+				margin-left:auto;
+				margin-right:auto;
+				display:block;
+				height:25px;
+				width:250px;
+				margin-bottom:5px;
+				
+}
+
+.submit{
+				text-align:center;
+				color:white;
+				background-color:#e8491d;
+				height:25px;
+				width:255px;
+				padding-top:9px;
+				margin:auto;
+				display:block;
+				font-size:13px;
+				text-decoration:none;		
+}
+
+.us{
+				text-align:center;
+}
+
+.box{
+			margin-left:10%;
+			margin-right:10%;
+}
+
+.epen{
+				font-size:14px;
+				text-align:center;
+}
+
+.isi{
+				margin-right:10%;
+				margin-left:10%;
+}
+
+.syarat{
+				font-size:13px;
+				text-align:center;
+				background-color:#35424a;
+				color:white;
+				padding:20px;
+}
+
+.akun{
+				margin-left:10%;
+				margin-right:10%;
+			 background-color:#35424a;
+			 padding:20px;
+}
+
+.akun ul li{
+				display:block;
+				text-align:center;
+				margin-left:-30px;
+}
+
+.akun a{
+				text-decoration:none;
+				color:white;
+				
+}
+
+.copy{
+				
+				background-color:#e8491d;
+				margin-left:-8px;
+				margin-right:-8px;
+				padding:20px;
+				
+}
+
+.cop{
+				text-align:center;
+				color:white;
+				font-size:14px;
+				
+}
