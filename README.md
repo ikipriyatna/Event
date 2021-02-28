@@ -77,7 +77,7 @@
 				background-color:#e8491d;
 				height:25px;
 				width:255px;
-				padding-top:9px;
+				
 				margin:auto;
 				display:block;
 				font-size:13px;
